@@ -1,0 +1,1 @@
+/Users/yerdogan/AndroidStudioProjects/EkarCaseStudy/buildSrc/build/classes/kotlin/main/Config.class:/Users/yerdogan/AndroidStudioProjects/EkarCaseStudy/buildSrc/build/classes/kotlin/main/Libs.class:/Users/yerdogan/AndroidStudioProjects/EkarCaseStudy/buildSrc/build/classes/kotlin/main/Versions.class
