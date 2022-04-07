@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName
 
 data class CarResponse(
     @SerializedName("success")
-    val success: Boolean,
+    val success: Boolean? = null,
     @SerializedName("attributes")
     val attributes: CarAttributeResponse,
     @SerializedName("colors")

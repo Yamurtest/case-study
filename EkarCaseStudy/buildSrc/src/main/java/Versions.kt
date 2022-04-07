@@ -12,7 +12,7 @@ object Versions {
     const val composeVersion = "1.1.0-alpha06"
     const val composeActivity = "1.4.0"
     const val hiltVersion = "2.40.5"
-    const val daggerCompilerVersion = "2.39"
+    const val daggerCompilerVersion = "2.40.5"
     const val hiltLifecycleVersion = "1.0.0-alpha03"
     const val hiltCompilerVersion = "1.0.0"
     const val hiltNavigationComposeVersion = "1.0.0"

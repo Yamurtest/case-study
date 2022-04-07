@@ -4,15 +4,15 @@ import com.google.gson.annotations.SerializedName
 
 data class CarAttributeResponse(
     @SerializedName("year")
-    val year: String,
+    val year: String? = null,
     @SerializedName("model")
-    val model: String,
+    val model: String? = null,
     @SerializedName("make")
-    val make: String,
+    val make: String? = null,
     @SerializedName("style")
-    val style: String,
+    val style: String? = null,
     @SerializedName("delivery_charges")
-    val deliveryCharges: String,
+    val deliveryCharges: String? = null,
     @SerializedName("standard_seating")
-    val seating: String
+    val seating: String? = null
 )

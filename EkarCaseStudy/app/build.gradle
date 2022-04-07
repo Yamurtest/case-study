@@ -86,7 +86,7 @@ dependencies {
     implementation Libs.hilt
     kapt Libs.hiltCompiler
     implementation Libs.hiltNavigationCompose
-    implementation Libs.daggerCompiler
+    kapt Libs.daggerCompiler
 
     //Tests
     testImplementation Libs.junit
